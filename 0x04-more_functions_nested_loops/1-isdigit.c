@@ -6,7 +6,7 @@
  * Return: 1 if c is a digit else 0
  */
 
-int _isdigit(int char c)
+int _isdigit(int c)
 {
 	int y = 0;
 	if (c >= '0' && c <= '9')
